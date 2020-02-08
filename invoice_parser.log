@@ -1,0 +1,48 @@
+2020-01-08 14:15:04.699  INFO 21356 --- [main] s.c.project.AwsParseInvoiceApplication   : Starting AwsParseInvoiceApplication on LAPTOP-CJH80K0D with PID 21356 (D:\spring-projects\aws-parse-invoice\target\classes started by natha in D:\spring-projects\aws-parse-invoice)
+2020-01-08 14:15:04.701  INFO 21356 --- [main] s.c.project.AwsParseInvoiceApplication   : No active profile set, falling back to default profiles: default
+2020-01-08 14:15:05.559  INFO 21356 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-01-08 14:15:05.567  INFO 21356 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-01-08 14:15:05.567  INFO 21356 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-08 14:15:05.631  INFO 21356 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-01-08 14:15:05.631  INFO 21356 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 896 ms
+2020-01-08 14:15:05.752  INFO 21356 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-08 14:15:05.860  INFO 21356 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-08 14:15:05.863  INFO 21356 --- [main] s.c.project.AwsParseInvoiceApplication   : Started AwsParseInvoiceApplication in 1.455 seconds (JVM running for 1.769)
+2020-01-08 14:16:13.001  WARN 32692 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/natha/.m2/repository/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/natha/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2020-01-08 14:16:13.013  INFO 32692 --- [main] s.c.p.AwsParseInvoiceApplicationTests    : Starting AwsParseInvoiceApplicationTests on LAPTOP-CJH80K0D with PID 32692 (started by natha in D:\spring-projects\aws-parse-invoice)
+2020-01-08 14:16:13.014  INFO 32692 --- [main] s.c.p.AwsParseInvoiceApplicationTests    : No active profile set, falling back to default profiles: default
+2020-01-08 14:16:13.781  INFO 32692 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-08 14:16:13.944  INFO 32692 --- [main] s.c.p.AwsParseInvoiceApplicationTests    : Started AwsParseInvoiceApplicationTests in 1.115 seconds (JVM running for 1.856)
+2020-01-08 14:16:14.140  INFO 32692 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-08 15:33:04.065  WARN 30812 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/natha/.m2/repository/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/natha/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2020-01-08 15:33:04.077  INFO 30812 --- [main] s.c.p.AwsParseInvoiceApplicationTests    : Starting AwsParseInvoiceApplicationTests on LAPTOP-CJH80K0D with PID 30812 (started by natha in D:\spring-projects\aws-parse-invoice)
+2020-01-08 15:33:04.078  INFO 30812 --- [main] s.c.p.AwsParseInvoiceApplicationTests    : No active profile set, falling back to default profiles: default
+2020-01-08 15:33:04.842  INFO 30812 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-08 15:33:05.002  INFO 30812 --- [main] s.c.p.AwsParseInvoiceApplicationTests    : Started AwsParseInvoiceApplicationTests in 1.11 seconds (JVM running for 1.848)
+2020-01-08 15:33:05.199  INFO 30812 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-08 15:59:10.657  INFO 12128 --- [main] s.c.project.AwsParseInvoiceApplication   : Starting AwsParseInvoiceApplication on LAPTOP-CJH80K0D with PID 12128 (D:\spring-projects\aws-parse-invoice\target\classes started by natha in D:\spring-projects\aws-parse-invoice)
+2020-01-08 15:59:10.660  INFO 12128 --- [main] s.c.project.AwsParseInvoiceApplication   : No active profile set, falling back to default profiles: default
+2020-01-08 15:59:11.530  INFO 12128 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-01-08 15:59:11.537  INFO 12128 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-01-08 15:59:11.537  INFO 12128 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-08 15:59:11.601  INFO 12128 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-01-08 15:59:11.601  INFO 12128 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 902 ms
+2020-01-08 15:59:11.727  INFO 12128 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-08 15:59:11.840  INFO 12128 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-08 15:59:11.842  INFO 12128 --- [main] s.c.project.AwsParseInvoiceApplication   : Started AwsParseInvoiceApplication in 1.475 seconds (JVM running for 1.785)
